@@ -7,7 +7,7 @@ using UnityEngine.UI;
 
 namespace Tests.Runtime
 {
-    public class unity-promiseTests
+    public class UnityPromiseTests
     {
         [SetUp]
         public void Setup()

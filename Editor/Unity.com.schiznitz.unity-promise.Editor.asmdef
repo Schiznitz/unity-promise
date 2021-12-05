@@ -1,5 +1,5 @@
 {
-    "name": "Unity.com.schiznitz.unity-promise.Editor",
+    "name": "Unity.com.schiznitz.unitypromise.Editor",
     "references": [],
     "includePlatforms": [
         "Editor"

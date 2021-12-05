@@ -1,7 +1,7 @@
 {
-  "name": "Unity.com.schiznitz.unity-promise.Editor.Tests",
+  "name": "Unity.com.schiznitz.unitypromise.Editor.Tests",
   "references": [
-    "Unity.com.schiznitz.unity-promise"
+    "Unity.com.schiznitz.unitypromise"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"
