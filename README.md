@@ -5,7 +5,7 @@
 
 # unity-promise
 
-Package for Unity game engine.
+WIP
 
 - [How to use](#how-to-use)
 - [Install](#install)
