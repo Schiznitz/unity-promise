@@ -1,7 +1,7 @@
 {
-  "name": "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}.Tests",
+  "name": "Unity.com.schiznitz.unity-promise.Tests",
   "references": [
-    "Unity.com.{{COMPANY}}.{{REPOSITORY_NAME}}"
+    "Unity.com.schiznitz.unity-promise"
   ],
   "optionalUnityReferences": [
     "TestAssemblies"
